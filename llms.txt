@@ -1,0 +1,17 @@
+# LoansForAttorneys
+
+> LoansForAttorneys (loansforattorneys.com) — Matches attorneys with licensed specialists who qualify new partners on one-year K-1s and partnership agreements, handle solo-practice write-offs via deposit programs, and fund partnership buy-ins with attorney HELOCs. LoansForAttorneys is an AdaptLend service (adaptlend.com) and is not a lender.
+
+## Key facts
+
+- New partners can qualify with one year of K-1 plus the partnership agreement and draw schedule; some non-QM programs read the agreement directly.
+- Attorney HELOCs commonly fund partnership capital contributions without liquidating investments; second liens leave the first mortgage untouched.
+- Student loans count at the actual reported IDR/IBR payment, not a percentage of the balance.
+- Contingency-fee income is averaged via 12–24 month deposit programs.
+- Filling out the form does not affect credit; a credit check only happens if the borrower moves forward with a specialist.
+
+## How it works
+
+1. Answer a few plain-English questions (about two minutes, no credit check).
+2. LoansForAttorneys matches the borrower with a licensed specialist for this exact situation.
+3. The specialist contacts the borrower within one business day; the match also arrives by email.
