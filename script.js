@@ -327,13 +327,7 @@ const SITE = {
       "meta": "Attorney HELOC \u00b7 Dallas, TX"
     }
   ],
-  "confetti": [
-    "#35507a",
-    "#6a83aa",
-    "#e6ecf5",
-    "#d4af37",
-    "#232c38"
-  ]
+  "confetti": ["#10b981", "#34d399", "#f5b942", "#ffffff", "#1a2440"]
 };
 
 const ICONS = {
